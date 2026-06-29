@@ -94,6 +94,9 @@ Example — restrict an S3 Gateway Endpoint to a specific bucket:
 
 ## Without vs With VPC Endpoints
 
+![Side-by-side comparison: EC2 routing to S3 via NAT Gateway and Internet Gateway vs directly via a VPC Gateway Endpoint](/diagrams/vpc-endpoints.png)
+
+
 ```
 Without endpoint:
   EC2 (private subnet) → NAT Gateway → Internet Gateway → S3

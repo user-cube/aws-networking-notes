@@ -22,6 +22,12 @@ Supported protocols:
 
 ---
 
+## Architecture
+
+![Application Load Balancer routing HTTPS traffic to three target groups based on URL path rules](/diagrams/alb-routing.png)
+
+---
+
 ## Advanced Routing
 
 An ALB can route traffic based on:

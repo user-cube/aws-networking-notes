@@ -12,6 +12,12 @@ tags:
 
 ---
 
+## Architecture
+
+![Comparison of Site-to-Site VPN routing through the public internet vs Direct Connect using a dedicated private link through the AWS backbone](/diagrams/direct-connect-vs-vpn.png)
+
+---
+
 ## Key Benefits Over VPN
 
 | Property | Site-to-Site VPN | Direct Connect |

@@ -12,6 +12,12 @@ tags:
 
 ---
 
+## Architecture
+
+![Site-to-Site VPN with two IPSec tunnels between on-premises and AWS Virtual Private Gateway, one per Availability Zone](/diagrams/site-to-site-vpn.png)
+
+---
+
 ## Components
 
 | Component | Description |

@@ -12,6 +12,12 @@ tags:
 
 ---
 
+## Architecture
+
+![Transit Gateway connecting three VPCs and an on-premises data centre via VPN](/diagrams/transit-gateway.png)
+
+---
+
 ## The Problem It Solves
 
 With VPC Peering, connecting many VPCs requires a full mesh of individual connections:

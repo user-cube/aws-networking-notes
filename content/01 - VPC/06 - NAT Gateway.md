@@ -20,6 +20,12 @@ At the same time, external users should not be able to initiate connections to t
 
 ---
 
+## Architecture
+
+![VPC with public and private subnets across two Availability Zones, each with a NAT Gateway](/diagrams/vpc-nat-gateway.png)
+
+---
+
 ## How It Works
 
 > [!important] A NAT Gateway does not replace an Internet Gateway
