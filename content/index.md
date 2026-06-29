@@ -1,5 +1,5 @@
 ---
-title: AWS Networking Notes
+title: AWS Network Fundamentals Notes
 description: "Personal study notes on AWS networking concepts, services, and best practices."
 ---
 

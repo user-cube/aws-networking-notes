@@ -1,8 +1,8 @@
-# AWS Networking Notes
+# AWS Network Fundamentals Notes
 
 Personal study notes on AWS networking concepts, services, and architecture patterns, built with [Quartz v5](https://quartz.jzhao.xyz/).
 
-Published at: [aws-networking-notes.ruicoelho.dev](https://aws-networking-notes.ruicoelho.dev)
+Published at: [aws-network-fundamentals-notes.ruicoelho.dev](https://aws-network-fundamentals-notes.ruicoelho.dev)
 
 ---
 

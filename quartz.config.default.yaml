@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: AWS Networking Notes
+  pageTitle: AWS Network Fundamentals Notes
   pageTitleSuffix: " · Rui Coelho"
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: aws-networking-notes.ruicoelho.dev
+  baseUrl: aws-network-fundamentals-notes.ruicoelho.dev
   ignorePatterns:
     - private
     - templates
